@@ -72,6 +72,9 @@ section{
 .home-content{
 	margin-right: 55px;
 }
+.profile_Pic{
+	filter:drop-shadow(-2px -2px 3px #0ef);
+}
 .homeimg h1{
 	padding-left: 10rem;
     font-size: 50rem;
